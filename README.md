@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
+![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)
 ---
 
 ## 🌱 Currently Learning 
@@ -55,8 +55,9 @@
 
 **Goal** - 300 Questions
 **Tool** - LeetCode
+![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)
 
-(https://progress-bar.dev/0/?scale=300&title=Questions%20Solved)
+![Progress](https://progress-bar.dev/0/?scale=300&title=Questions%0Solved)
 
 ---
 
@@ -92,7 +93,8 @@ Tools -
 ## 🔥 Problem Solving Journey
 I am Solving Programming Problems On Leetcode everyday to Improve my logic building and coding skills.
 Current Goal: **300 Problems**
-(https://progress-bar.dev/0/?title=DSA)
+
+![Progress](https://progress-bar.dev/0/?scale=300&title=Questions%0Solved)
 
 ---
 
