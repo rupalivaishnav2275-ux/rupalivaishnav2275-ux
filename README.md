@@ -2,6 +2,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rupali%20Vaishnav&fontSize=40&fontColor=ffffff"/>
+<h1 align="center">Hi 👋, I'm Rupal Vaishnav</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B%20Learner;Future%20Software%20Developer;DSA%20Problem%20Solver;Building%20My%20Developer%20Journey&center=true&width=500&height=45">
+</p>
 
 ## Hi 👋🏼 I'm Rupali Vaishnav
 
@@ -69,8 +74,8 @@ Tools -
 - LeetCode
 - LinkedIn
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode"/>
+<p> align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,leetcode,linkedin"/>
 </p>
 
 ---
@@ -80,6 +85,9 @@ Tools -
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupalivaishnav2275-ux&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupalivaishnav2275-ux&layout=compact&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
+
 
 ---
 
@@ -91,7 +99,7 @@ Current Goal: **300 Problems**
 ---
 
 ## 🎯 Developer Mindset
-"Consistency is more important than intensity."
+"Consistency beats intensity. Small Progress every day builds great developers."
 
 ---
 
@@ -107,3 +115,4 @@ LinkedIn: https://linkedin.com/rupalivaishnav2275
 ![Profile Views](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
 ![](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
+
