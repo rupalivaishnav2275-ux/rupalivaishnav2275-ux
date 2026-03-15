@@ -56,7 +56,7 @@
 **Goal** - 300 Questions
 **Tool** - LeetCode
 
-![Progress](https://progress-bar.dev/0/?scale=300&title=Questions%20Solved)
+(https://progress-bar.dev/0/?scale=300&title=Questions%20Solved)
 
 ---
 
@@ -70,11 +70,10 @@ Tools -
 - Git
 - GitHub
 - VS Code
-- LeetCode
 - LinkedIn
 
-<p> align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,leetcode,linkedin"/>
+<p> 
+<img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,linkedin"/>
 </p>
 
 ---
@@ -93,7 +92,7 @@ Tools -
 ## 🔥 Problem Solving Journey
 I am Solving Programming Problems On Leetcode everyday to Improve my logic building and coding skills.
 Current Goal: **300 Problems**
-![Progress](https://progress-bar.dev/0/?title=DSA)
+(https://progress-bar.dev/0/?title=DSA)
 
 ---
 
@@ -112,8 +111,10 @@ LinkedIn: https://linkedin.com/rupalivaishnav2275
 ## 💫 **This profile will grow as I learn and build new projects.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
+
 ![](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
 
-   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=ThankYou<br>Rupali%20Vaishnav&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rupali%20Vaishnav&fontSize=40&fontColor=ffffff"/>
 
