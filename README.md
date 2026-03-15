@@ -2,13 +2,12 @@
    ![Profile Views](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
    ![GitHub Streak](https://streak-stats.demolab.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
 
-<h1 align="center">Hi 👋, I'm Rupal Vaishnav</h1>
+<h1 align="center">Hi 👋, I'm Rupali Vaishnav</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B%20Learner;Future%20Software%20Developer;DSA%20Problem%20Solver;Building%20My%20Developer%20Journey&center=true&width=500&height=45">
 </p>
 
-## Hi 👋🏼 I'm Rupali Vaishnav
 
 🎓 B.Tech Student (Computer Science)
 <br>
