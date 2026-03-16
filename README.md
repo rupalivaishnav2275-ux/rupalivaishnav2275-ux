@@ -76,6 +76,18 @@
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/rupalivaishnav2275-ux?theme=dark&font=Karma" />
+</p>
+
+
+---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
+
+
 ## 💻 Tech Stack
 
 Languages -
@@ -131,6 +143,8 @@ LinkedIn: https://linkedin.com/rupalivaishnav2275
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
+
+
 ## 💫 **This profile will grow as I learn and build new projects.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
@@ -139,19 +153,28 @@ LinkedIn: https://linkedin.com/rupalivaishnav2275
 
 
 
+---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
+
+
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer&text=Rupali%20Vaishnav&fontSize=28&fontColor=ffffff)
-
-
-
-![Snake animation](https://github.com/rupalivaishnav2275-ux/rupalivaishnav2275-ux/blob/output/github-contribution-grid-snake.svg)
-
-
 
 
 <p align="center">
 ⭐ Thank You For Visiting My Profile ⭐
 </p> 
+
+
+---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
+
+
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/rupalivaishnav2275-ux/rupalivaishnav2275-ux/blob/output/github-contribution-grid-snake.svg)
 
 
 
