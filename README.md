@@ -174,7 +174,10 @@ LinkedIn: https://linkedin.com/rupalivaishnav2275
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/rupalivaishnav2275-ux/rupalivaishnav2275-ux/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rupalivaishnav2275-ux/rupalivaishnav2275-ux/output/github-contribution-grid-snake.svg)
 
 
+
+---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
