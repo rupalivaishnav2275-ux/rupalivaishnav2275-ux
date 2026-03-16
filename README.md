@@ -54,8 +54,12 @@
 ## 🧾 Problem Solving Progress
 
 **Goal** - 300 Questions
+
 **Tool** - LeetCode
+
+
 ![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)
+
 
 ![Progress](https://progress-bar.dev/0/?scale=300&title=Questions%0Solved)
 
