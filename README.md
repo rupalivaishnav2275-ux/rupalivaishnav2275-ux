@@ -70,7 +70,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)
 
-![LeetCode Progress](https://img.shields.io/badge/Questions%20Solved-0%2F300-blue)
+![LeetCode Progress](https://img.shields.io/badge/Questions%20Solved-02%2F300-blue)
 
 
 ---
@@ -124,7 +124,7 @@ I am Solving Programming Problems On Leetcode everyday to Improve my logic build
 
 Current Goal: **300 Problems**
 
-![LeetCode Progress](https://img.shields.io/badge/Questions%20Solved-0%2F300-blue)
+![LeetCode Progress](https://img.shields.io/badge/Questions%20Solved-02%2F300-blue)
 
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
