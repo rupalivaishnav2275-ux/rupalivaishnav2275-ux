@@ -1,14 +1,17 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;C+++Learner;Future+Software+Developer)
    ![Profile Views](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
    ![GitHub Streak](https://streak-stats.demolab.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupalivaishnav2275-ux&theme=react-dark)
+
 
 <h1 align="center">Hi 👋, I'm Rupali Vaishnav</h1>
+<h3 align="center">DSA Problem Solver</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B%20Learner;Future%20Software%20Developer;DSA%20Problem%20Solver;Building%20My%20Developer%20Journey&center=true&width=500&height=45">
 </p>
 
-
+<p align="centre">
 🎓 B.Tech Student (Computer Science)
 <br>
 💻 Beginner Programmer
@@ -20,12 +23,17 @@
 📈 Goal: Solve 300+ DSA Problems
 <br>
 📍 Ratlam , (M.P.) ; INDIA
+<p/p>
 
+   
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 ![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)
+
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
+
 
 ## 🌱 Currently Learning 
 
@@ -36,6 +44,7 @@
  - Git & GitHub
 
 --- 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
 ##  🛣  My Learning Roadmap
 
@@ -50,6 +59,7 @@
 ⌛ Backend Development
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
 ## 🧾 Problem Solving Progress
 
@@ -64,6 +74,7 @@
 
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
 ## 💻 Tech Stack
 
@@ -77,11 +88,12 @@ Tools -
 - VS Code
 - LinkedIn
 
-<p> 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,git,github,vscode,linkedin"/>
 </p>
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
 ## 📈 GitHub Stats
 
@@ -93,6 +105,7 @@ Tools -
 
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
 ## 🔥 Problem Solving Journey
 I am Solving Programming Problems On Leetcode everyday to Improve my logic building and coding skills.
@@ -102,11 +115,13 @@ Current Goal: **300 Problems**
 ![LeetCode Progress](https://img.shields.io/badge/Questions%20Solved-0%2F300-blue)
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
 ## 🎯 Developer Mindset
 "Consistency beats intensity. Small Progress every day builds great developers."
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
 ## 🌐 Connect With Me
 
@@ -114,6 +129,7 @@ GitHub: https://github.com/rupalivaishnav2275-ux
 LinkedIn: https://linkedin.com/rupalivaishnav2275
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
 ## 💫 **This profile will grow as I learn and build new projects.**
 
@@ -126,4 +142,7 @@ LinkedIn: https://linkedin.com/rupalivaishnav2275
 <p align="center">
 ⭐ Thank You For Visiting My Profile ⭐
 </p> 
+
+![Snake animation](https://github.com/rupalivaishnav2275-ux/rupalivaishnav2275-ux/blob/output/github-contribution-grid-snake.svg)
+
 
