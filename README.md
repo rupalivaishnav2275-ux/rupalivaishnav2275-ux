@@ -121,7 +121,7 @@ LinkedIn: https://linkedin.com/rupalivaishnav2275
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Rupali%20Vaishnav&fontSize=40&fontColor=ffffff"/>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer&text=Rupali%20Vaishnav%20•%20Thank%20You&fontSize=25&fontColor=ffffff)
 
