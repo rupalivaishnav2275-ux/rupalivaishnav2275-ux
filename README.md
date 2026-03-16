@@ -80,7 +80,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/rupalivaishnav2275-ux?theme=dark&font=Karma" />
+<img src="https://leetcard.jacoblin.cool/ruhii_2275?theme=dark&font=Karma" />
 </p>
 
 
