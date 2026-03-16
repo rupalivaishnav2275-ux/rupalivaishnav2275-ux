@@ -60,7 +60,7 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)
 
-![Progress](https://progress-bar.dev/0/?scale=300&title=Questions%20Solved&width=500)
+![LeetCode Progress](https://img.shields.io/badge/Questions%20Solved-0%2F300-blue)
 
 
 ---
@@ -98,7 +98,7 @@ Tools -
 I am Solving Programming Problems On Leetcode everyday to Improve my logic building and coding skills.
 Current Goal: **300 Problems**
 
-![Progress](https://progress-bar.dev/0/?scale=300&title=LeetCode%20Progress&width=500&color=babaca)
+![LeetCode Progress](https://img.shields.io/badge/Questions%20Solved-0%2F300-blue)
 
 ---
 
