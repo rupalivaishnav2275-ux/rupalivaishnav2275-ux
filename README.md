@@ -137,12 +137,21 @@ LinkedIn: https://linkedin.com/rupalivaishnav2275
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
 
+
+
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer&text=Rupali%20Vaishnav&fontSize=28&fontColor=ffffff)
+
+
+
+![Snake animation](https://github.com/rupalivaishnav2275-ux/rupalivaishnav2275-ux/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 <p align="center">
 ⭐ Thank You For Visiting My Profile ⭐
 </p> 
 
-![Snake animation](https://github.com/rupalivaishnav2275-ux/rupalivaishnav2275-ux/blob/output/github-contribution-grid-snake.svg)
 
 
