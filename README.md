@@ -1,6 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;C+++Learner;Future+Software+Developer)
    ![Profile Views](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
    
+   ![GitHub Streak](https://streak-stats.demolab.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupalivaishnav2275-ux&theme=react-dark)
+
 
 <h1 align="center">Hi 👋, I'm Rupali Vaishnav</h1>
 <h3 align="center">DSA Problem Solver</h3>
@@ -68,7 +71,11 @@
 
 ![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)
 
+<<<<<<< HEAD
 ![LeetCode Progress](https://img.shields.io/badge/Questions%20Solved-02%2F300-blue)
+=======
+![LeetCode Progress](https://img.shields.io/badge/Questions%20Solved-0%2F300-blue)
+>>>>>>> b21d371 (Initial commit:add VS Code C++ configuration)
 
 
 ---
@@ -109,6 +116,13 @@ Tools -
 
 <img src="https://github-readme-stats.vercel.app/api?username=rupalivaishnav2275-ux&show_icons=true&theme=tokyonight" />
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupalivaishnav2275-ux&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupalivaishnav2275-ux&layout=compact&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
+
+
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
@@ -117,7 +131,11 @@ I am Solving Programming Problems On Leetcode everyday to Improve my logic build
 
 Current Goal: **300 Problems**
 
+
 ![LeetCode Progress](https://img.shields.io/badge/Questions%20Solved-02%2F300-blue)
+
+![LeetCode Progress](https://img.shields.io/badge/Questions%20Solved-0%2F300-blue)
+
 
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
@@ -140,6 +158,10 @@ LinkedIn: https://linkedin.com/rupalivaishnav2275
 
 ## 💫 **This profile will grow as I learn and build new projects.**
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
 
 
 ---
