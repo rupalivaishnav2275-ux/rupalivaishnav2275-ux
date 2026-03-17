@@ -3,6 +3,20 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupalivaishnav2275-ux&layout=compact&theme=tokyonight&cache_seconds=60" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupalivaishnav2275-ux&show_icons=true&theme=tokyonight&cache_seconds=60" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rupalivaishnav2275-ux&theme=tokyonight&cache_seconds=60" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupalivaishnav2275-ux&layout=compact&theme=tokyonight&cache_seconds=60" />
+</p>
+
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupalivaishnav2275-ux&theme=react-dark)
 
 
