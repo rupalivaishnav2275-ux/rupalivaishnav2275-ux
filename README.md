@@ -25,12 +25,6 @@
 📍 Ratlam , (M.P.) ; INDIA
 <p/p>
 
-   
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)
-
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
 
