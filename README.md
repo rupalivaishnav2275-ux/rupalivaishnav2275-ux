@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;C+++Learner;Future+Software+Developer)
    ![Profile Views](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
-   ![GitHub Streak](https://streak-stats.demolab.com/?user=rupalivaishnav2275-ux&theme=tokyonight)
+ <img src="https://streak-stats.demolab.com?user=rupalivaishnav2275-ux&theme=tokyonight&cache_seconds=60" />
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupalivaishnav2275-ux&theme=react-dark)
 
 
