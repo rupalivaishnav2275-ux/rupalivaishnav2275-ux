@@ -1,24 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub;C+++Learner;Future+Software+Developer)
    ![Profile Views](https://komarev.com/ghpvc/?username=rupalivaishnav2275-ux&color=blue)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupalivaishnav2275-ux&layout=compact&theme=tokyonight&cache_seconds=60" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupalivaishnav2275-ux&show_icons=true&theme=tokyonight&cache_seconds=60" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=rupalivaishnav2275-ux&theme=tokyonight&cache_seconds=60" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupalivaishnav2275-ux&layout=compact&theme=tokyonight&cache_seconds=60" />
-</p>
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rupalivaishnav2275-ux&theme=react-dark)
-
+   
 
 <h1 align="center">Hi 👋, I'm Rupali Vaishnav</h1>
 <h3 align="center">DSA Problem Solver</h3>
@@ -125,10 +107,7 @@ Tools -
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupalivaishnav2275-ux&layout=compact&theme=tokyonight&cache_seconds=60" />
-</p>
-
+<img src="https://github-readme-stats.vercel.app/api?username=rupalivaishnav2275-ux&show_icons=true&theme=tokyonight" />
 
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
@@ -160,10 +139,6 @@ LinkedIn: https://linkedin.com/rupalivaishnav2275
 
 
 ## 💫 **This profile will grow as I learn and build new projects.**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupalivaishnav2275-ux&layout=compact&theme=tokyonight&cache_seconds=60" />
-</p>
 
 
 
