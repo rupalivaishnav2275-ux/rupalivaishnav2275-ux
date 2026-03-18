@@ -134,7 +134,7 @@ Current Goal: **300 Problems**
 ## 🌐 Connect With Me
 
 GitHub: https://github.com/rupalivaishnav2275-ux  
-LinkedIn: https://linkedin.com/rupalivaishnav2275
+LinkedIn: www.linkedin.com/in/rupali-vaishnav-00227ar5
 
 ---
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:2c5364&height=2" />
